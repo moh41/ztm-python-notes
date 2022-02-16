@@ -1,3 +1,0 @@
-a@a.com,Hey this is cool,WOAH!!!
-b@b.com,ay,this works!!!1!!
-asdfas@asd.com,JSDAFlskjf,sdfjaklf
