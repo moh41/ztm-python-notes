@@ -4,7 +4,7 @@ click==8.0.3
 colorama==0.4.4
 idna==3.3
 libretranslatepy==2.1.1
-lxml==4.7.1
+lxml==4.9.1
 requests==2.27.1
 translate==3.6.1
 urllib3==1.26.8
